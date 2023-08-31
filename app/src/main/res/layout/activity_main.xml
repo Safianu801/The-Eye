@@ -43,8 +43,8 @@
       </LinearLayout>
 
       <RelativeLayout
-          android:layout_width="105dp"
-          android:layout_height="105dp"
+          android:layout_width="90dp"
+          android:layout_height="90dp"
           android:layout_below="@id/mainTxt"
           android:layout_centerHorizontal="true"
           android:layout_marginTop="80dp"
@@ -52,8 +52,8 @@
 
 
           <RelativeLayout
-              android:layout_width="100dp"
-              android:layout_height="100dp"
+              android:layout_width="85dp"
+              android:layout_height="85dp"
               android:layout_centerInParent="true"
               android:id="@+id/nextBtn"
               android:background="@drawable/main_button_style">
